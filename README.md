@@ -1,6 +1,6 @@
 ###
 <p>
-  Olá, sou Caio Dos Santos Lopes, tenho 20 anos, tenho afinidade com Ti desde pequeno e estou em busca da minha primeira experiencia, minha jornada como dev começou em 2022 com um curso profissionalizante de WebDesign onde tive contato com conceitos basicos de logica de programação e um pouco de desenvolvimento backend, atualmente tenho estudado python junto estrutura de dados e desenvolvimento mobile com reactJS na UniSatc.
+  Olá, meu nome é Caio Dos Santos Lopes e tenho 20 anos. Desde pequeno, tenho afinidade com TI e estou em busca da minha primeira experiência na área. Minha jornada como desenvolvedor começou em 2022, quando fiz um curso profissionalizante de WebDesign. Nesse curso, tive contato com conceitos básicos de lógica de programação e um pouco de desenvolvimento backend. Atualmente, estou estudando Python, estrutura de dados e desenvolvimento mobile com ReactJS na UniSatc.
 </p>
 
 <div align="center">
