@@ -1,6 +1,7 @@
-
-
 ###
+<p>
+  Olá, sou Caio Dos Santos Lopes, tenho 20 anos, tenho afinidade com Ti desde pequeno e estou em busca da minha primeira experiencia, minha jornada como dev começou em 2022 com um curso profissionalizante de WebDesign onde tive contato com conceitos basicos de logica de programação e um pouco de desenvolvimento backend, atualmente tenho estudado python junto estrutura de dados e desenvolvimento mobile com reactJS na UniSatc.
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioLopes18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
