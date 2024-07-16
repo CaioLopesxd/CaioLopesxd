@@ -5,6 +5,9 @@
 ## 📊 GitHub Stats:
 ![CaioLopesxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioLopesxd&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
+## 🔥 GitHub Streak:
+![CaioLopesxd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioLopesxd&theme=gotham&hide_border=false)
+
 ## 🔝 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLopesxd&theme=gotham&layout=compact&hide_border=false)
 
@@ -12,16 +15,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CaioLopesxd&color=blue&style=flat)
 
 ## 🛠️ Skills and Tools:
-- **Programming Languages:** Python, JavaScript
-- **Frameworks and Libraries:** ReactJS
-- **Others:** Git, GitHub
+- **Linguagens de Programação:** Python, JavaScript
+- **Frameworks e Bibliotecas:** ReactJS
+- **Outros:** Git, GitHub
 
-## 📚 Currently Learning:
+## 📚 Atualmente Aprendendo:
 - Python
-- Data Structures
-- Mobile Development with ReactJS
+- Estruturas de Dados
+- Desenvolvimento Mobile com ReactJS
 
-## 💬 Let's Connect:
+## 💬 Vamos Conectar:
 - [LinkedIn](https://www.linkedin.com/in/caio-dos-santos-lopes/)
-- [Twitter](https://twitter.com/CaioLopesxd)
 
