@@ -1,31 +1,27 @@
-###
-<p>
-  Olá, meu nome é Caio Dos Santos Lopes e tenho 20 anos. Desde pequeno, tenho afinidade com TI e estou em busca da minha primeira experiência na área. Minha jornada como desenvolvedor começou em 2022, quando fiz um curso profissionalizante de WebDesign. Nesse curso, tive contato com conceitos básicos de lógica de programação e um pouco de desenvolvimento backend. Atualmente, estou estudando Python, estrutura de dados e desenvolvimento mobile com ReactJS na UniSatc.
-</p>
+# Caio Dos Santos Lopes
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CaioLopesxd&theme=gotham&show_icons=true&hide_border=false&count_private=true" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioLopesxd&theme=gotham&hide_border=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLopesxd&theme=gotham&show_icons=true&hide_border=false&layout=compact">
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, atualmente estudando Python, estrutura de dados e desenvolvimento mobile com ReactJS na UniSatc.
 
-</div>
+## 📊 GitHub Stats:
+![CaioLopesxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioLopesxd&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
-###
+## 🔝 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLopesxd&theme=gotham&layout=compact&hide_border=false)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+## 👁️ Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=CaioLopesxd&color=blue&style=flat)
 
-###
+## 🛠️ Skills and Tools:
+- **Programming Languages:** Python, JavaScript
+- **Frameworks and Libraries:** ReactJS
+- **Others:** Git, GitHub
+
+## 📚 Currently Learning:
+- Python
+- Data Structures
+- Mobile Development with ReactJS
+
+## 💬 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/caio-dos-santos-lopes/)
+- [Twitter](https://twitter.com/CaioLopesxd)
+
