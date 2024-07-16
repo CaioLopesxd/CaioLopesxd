@@ -24,6 +24,4 @@
 - Estruturas de Dados
 - Desenvolvimento Mobile com ReactJS
 
-## 💬 Vamos Conectar:
-- [LinkedIn](https://www.linkedin.com/in/caio-dos-santos-lopes/)
 
