@@ -11,9 +11,6 @@
 ## 🔝 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLopesxd&theme=gotham&layout=compact&hide_border=false)
 
-## 👁️ Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=CaioLopesxd&color=blue&style=flat)
-
 ## 🛠️ Skills and Tools:
 - **Linguagens de Programação:** Python, JavaScript
 - **Frameworks e Bibliotecas:** ReactJS
