@@ -1,6 +1,7 @@
 # Caio Dos Santos Lopes
 
- Olá, meu nome é Caio Dos Santos Lopes e tenho 20 anos. Desde pequeno, tenho afinidade com TI e estou em busca da minha primeira experiência na área. Minha jornada como desenvolvedor começou em 2022, quando fiz um curso profissionalizante de WebDesign. Nesse curso, tive contato com conceitos básicos de lógica de programação e um pouco de desenvolvimento backend. Atualmente, estou estudando Python, estrutura de dados e desenvolvimento mobile com ReactJS na UniSatc.
+ Olá, meu nome é Caio Dos Santos Lopes, tenho 20 ano e estou em busca da minha primeira experiência na área.
+ Minha jornada como desenvolvedor começou em 2022, quando fiz um curso profissionalizante de WebDesign. Nesse curso, tive contato com conceitos básicos de lógica de programação e um pouco de desenvolvimento backend com php. Atualmente, estou estudando Python, php, C++ e desenvolvimento mobile com ReactJS na UniSatc.
 
 ## 📊 GitHub Stats:
 ![CaioLopesxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioLopesxd&theme=gotham&show_icons=true&hide_border=false&count_private=true)
