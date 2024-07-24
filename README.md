@@ -18,8 +18,7 @@
 - **Outros:** Git, GitHub
 
 ## 📚 Atualmente Aprendendo:
-- Python
-- Estruturas de Dados
+- Python, C++, JS e PHP
 - Desenvolvimento Mobile com ReactJS
 
 
