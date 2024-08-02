@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLopesxd&theme=gotham&layout=compact&hide_border=false)
 
 ## 🛠️ Skills and Tools:
-- **Linguagens de Programação:** Python, JavaScript
+- **Linguagens de Programação:** Python, JavaScript, PHP
 - **Frameworks e Bibliotecas:** ReactJS
 - **Outros:** Git, GitHub
 
