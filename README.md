@@ -14,11 +14,10 @@
 
 ## 🛠️ Skills and Tools:
 - **Linguagens de Programação:** Python, JavaScript, PHP
-- **Frameworks e Bibliotecas:** ReactJS
+- **Frameworks e Bibliotecas:** ReactNative
 - **Outros:** Git, GitHub
 
 ## 📚 Atualmente Aprendendo:
 - Python, C++, JS e PHP
-- Desenvolvimento Mobile com ReactJS
 
 
