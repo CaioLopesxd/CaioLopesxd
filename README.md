@@ -1,6 +1,6 @@
 # Caio Dos Santos Lopes
 
- Olá, meu nome é Caio Dos Santos Lopes, tenho 20 ano e estou em busca da minha primeira experiência na área.
+ Olá, meu nome é Caio Dos Santos Lopes, tenho 20 anos e estou em busca da minha primeira experiência na área.
  Minha jornada como desenvolvedor começou em 2022, quando fiz um curso profissionalizante de WebDesign. Nesse curso, tive contato com conceitos básicos de lógica de programação e um pouco de desenvolvimento backend com php. Atualmente, estou estudando Python, php, C++ e desenvolvimento mobile com ReactJS na UniSatc.
 
 ## 📊 GitHub Stats:
@@ -46,5 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
 
