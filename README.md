@@ -1,6 +1,6 @@
 # Caio Dos Santos Lopes
 
-Olá! Me chamo Caio dos Santos Lopes, sou estagiário em desenvolvimento com Progress 4GL na Agrosys, atuando na área de contabilidade. Auxilio no desenvolvimento do ERP Agrosys para que seus usuários tenham uma boa gestão e organização de seus dados financeiros, sempre me dedicando a criar soluções eficientes e confiáveis para o setor contábil, com foco na qualidade e confiabilidade.
+Olá! Me chamo Caio dos Santos Lopes, sou estagiário em desenvolvimento com Progress 4GL na Agrosys. Auxilio no desenvolvimento do módulo Contabil e Custo do ERP Agrosys para que seus usuários tenham uma boa gestão e organização de seus dados financeiros, sempre me dedicando a criar soluções eficientes e confiáveis para o setor contábil, com foco na qualidade e confiabilidade.
 
 ## 📊 GitHub Stats:
 ![CaioLopesxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioLopesxd&theme=gotham&show_icons=true&hide_border=false&count_private=true)
